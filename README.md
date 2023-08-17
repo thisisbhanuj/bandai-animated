@@ -1,0 +1,2 @@
+# bandai-animated
+Bandai
