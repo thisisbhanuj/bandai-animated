@@ -5,6 +5,7 @@ import { Explore, Shop, Hero, WhatsNew, News } from '../sections';
 const Home = () => (
   <div className="bg-primary-white overflow-hidden">
     <Navbar />
+    <Footer />
     <Hero />
     <div className="relative">
       <div className="gradient-03 z-0" />
@@ -18,7 +19,6 @@ const Home = () => (
     <div className="relative">
       <News />
     </div>
-    <Footer />
   </div>
 );
 
